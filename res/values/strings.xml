@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoteBook</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_insert_img">InsertImg</string>
+    <string name="action_camera">Camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="list_notes">List Notes</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="welcome_title">Best Note in Android!</string>
+    <string name="title_activity_list_notes">ListNotes</string>
+    <string name="new_note">New</string>
+    <string name="title_activity_edit_note">EditNoteActivity</string>
+    <string name="note_title">Title</string>
+    <string name="type">Type</string>
+    <string name="paint">Paint</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="erase">Erase</string>
+    
+
+    <string-array name="list_menu">
+        <item>Delete</item>
+    </string-array>
+
+    <string name="title_activity_paint_pad">PaintPadActivity</string>
+
+</resources>

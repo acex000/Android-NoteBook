@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/action_new_note"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_create_new"
+        android:title="@string/new_note"/>
+
+</menu>

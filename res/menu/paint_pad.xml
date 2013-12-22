@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+      <item
+        android:id="@+id/action_erase_paint"
+        android:showAsAction="always"
+        android:title="@string/erase"/>
+      <item
+        android:id="@+id/action_continue_paint"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_paint"
+        android:title="@string/paint"/>
+    <item
+        android:id="@+id/action_save_paint"
+        android:showAsAction="always"
+        android:title="@string/save"/>
+
+</menu>

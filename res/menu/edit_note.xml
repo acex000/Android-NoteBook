@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+   <item
+        android:id="@+id/action_insert_img"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_insert_img"
+        android:icon="@drawable/ic_picture"/>
+   <item 
+      	android:id="@+id/action_camera"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_camera"
+        android:icon="@drawable/ic_camera"/>
+    <!-- <item
+        android:id="@+id/action_type_text"
+        android:showAsAction="always"
+        android:title="@string/type"/> -->
+    <item
+        android:id="@+id/action_paint"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_paint"
+        android:title="@string/paint"/>
+    <!-- <item
+        android:id="@+id/action_erase"
+        android:showAsAction="always"
+        android:title="@string/erase"/> -->
+    <item
+        android:id="@+id/action_save"
+        android:showAsAction="always"
+        android:title="@string/save"
+        android:icon="@drawable/ic_action_save"/>
+    <!-- <item
+        android:id="@+id/action_load"
+        android:showAsAction="ifRoom"
+        android:title="@string/load"/> -->
+
+</menu>
